@@ -1,5 +1,23 @@
 # 📝 Quiz Runner
 
+## Table of Contents
+
+1. [📝 Overview](#-overview)  
+2. [🛠️ Features](#️-features)  
+   - [Admin Role](#admin-role)  
+   - [Student Role](#student-role)  
+   - [Data Management](#data-management)  
+3. [🖥️ Technologies Used](#️-technologies-used)  
+4. [🔒 Prerequisites](#-prerequisites)  
+5. [🏗️ Project Structure](#️-project-structure)  
+6. [🚀 How to Run](#-how-to-run)  
+7. [📋 JSON File Structure](#-json-file-structure)  
+   - [users.json](#usersjson)  
+   - [quiz.json](#quizjson)  
+8. [📡 Future Enhancements](#-future-enhancements)
+
+---
+
 ## 💭 Overview
 
 The **Quiz Runner** project is an interactive quiz application that allows two types of users: 
@@ -11,14 +29,16 @@ This application adheres to Object-Oriented Programming (OOP) principles and mod
 
 ## 🛠️ Features
 
-- **Admin Role**:
-    - Add new quiz questions, options, and correct answers.
-    - Save questions into a JSON file for persistence.
-- **Student Role**:
-    - Attempt 10 randomly selected quiz questions.
-    - Receive feedback and grading based on performance.
-- **Data Management**:
-    - All questions and user information are stored and retrieved from JSON files.
+### Admin Role
+- Add new quiz questions, options, and correct answers.
+- Save questions into a JSON file for persistence.
+
+### Student Role
+- Attempt 10 randomly selected quiz questions.
+- Receive feedback and grading based on performance.
+
+### Data Management
+- All questions and user information are stored and retrieved from JSON files.
 
 ## 🖥️ Technologies Used
 
@@ -67,40 +87,41 @@ QuizRunner/
 
 ## 📋 JSON File Structure
 
-- `users.json` Stores user credentials and roles:
+### users.json
+
+Stores user credentials and roles:
     
-    ```json
-    [
-      {
-        "username": "admin",
-        "password": "adminpass",
-        "role": "admin"
-      },
-      {
-        "username": "student",
-        "password": "studentpass",
-        "role": "student"
-      }
-    ]
+```json
+[
+  {
+    "username": "admin",
+    "password": "adminpass",
+    "role": "admin"
+  },
+  {
+    "username": "student",
+    "password": "studentpass",
+    "role": "student"
+  }
+]
+```
+
+### quiz.json
+
+Stores quiz questions:
     
-    ```
-    
-- `quiz.json` Stores quiz questions:
-    
-    ```json
-    [
-      {
-        "answerkey": 2,
-        "option 3": "A well-designed user interface.",
-        "option 4": "Efficient algorithm performance.",
-        "question": "5. What does the term 'bug' refer to in software testing?",
-        "option 1": "An intentional feature added to the software.",
-        "option 2": "An error or flaw in the software."
-      }
-    ]
-    
-    ```
-    
+```json
+[
+  {
+    "answerkey": 2,
+    "option 3": "A well-designed user interface.",
+    "option 4": "Efficient algorithm performance.",
+    "question": "5. What does the term 'bug' refer to in software testing?",
+    "option 1": "An intentional feature added to the software.",
+    "option 2": "An error or flaw in the software."
+  }
+]
+```
 
 ## 📡 Future Enhancements
 
