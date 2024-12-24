@@ -1,10 +1,15 @@
-# Quiz Runner
+# 📝 Quiz Runner
 
-## Overview
+## 💭 Overview
 
-The **Quiz Runner** project is an interactive quiz application that allows two types of users: **Admin** and **Student**. Admin users can create and save quizzes, while Student users can take the quiz and get graded based on their performance. This application adheres to Object-Oriented Programming (OOP) principles and modern Java practices.
+The **Quiz Runner** project is an interactive quiz application that allows two types of users: 
 
-## Features
+1. **Admin** : can create and save quizzes
+2. **Student :** can take the quiz and get graded based on their performance. 
+
+This application adheres to Object-Oriented Programming (OOP) principles and modern Java practices.
+
+## 🛠️ Features
 
 - **Admin Role**:
     - Add new quiz questions, options, and correct answers.
@@ -15,19 +20,19 @@ The **Quiz Runner** project is an interactive quiz application that allows two t
 - **Data Management**:
     - All questions and user information are stored and retrieved from JSON files.
 
-## Technologies Used
+## 🖥️ Technologies Used
 
 - Java
 - JSON (using `org.json.simple` library for JSON parsing and writing)
 - Object-Oriented Design
 - IntelliJ IDEA
 
-## Prerequisites
+## 🔒 Prerequisites
 
 - JDK 17 or above
 - IntelliJ IDEA or any Java-supported IDE
 
-## Project Structure
+## 🏗️ Project Structure
 
 ```
 QuizRunner/
@@ -36,6 +41,7 @@ QuizRunner/
 │   │   ├── java/
 │   │   │   ├── QuizRunner.java
 │   │   │   ├── SampleQuestion.java
+│   │   │   ├── QuizService.java
 │   │   ├── resources/
 │   │   │   ├── quiz.json
 │   │   │   ├── users.json
@@ -43,7 +49,7 @@ QuizRunner/
 
 ```
 
-## How to Run
+## 🚀 How to Run
 
 1. Clone the repository:
     
@@ -59,7 +65,7 @@ QuizRunner/
     - **Admin**: Create quizzes.
     - **Student**: Attempt quizzes.
 
-## JSON File Structure
+## 📋 JSON File Structure
 
 - `users.json` Stores user credentials and roles:
     
@@ -96,7 +102,7 @@ QuizRunner/
     ```
     
 
-## Future Enhancements
+## 📡 Future Enhancements
 
 - Add support for multiple-choice answers.
 - Implement a web interface for better user experience.
