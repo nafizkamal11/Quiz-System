@@ -1,0 +1,242 @@
+[
+  {
+    "answerkey": 2,
+    "option 3": "To ensure the software meets only technical specifications.",
+    "option 4": "To document the software development process thoroughly.",
+    "question": "1. What is the primary objective of software testing?",
+    "option 1": "To improve software performance by optimizing the code.",
+    "option 2": "To find gaps, errors, or missing requirements compared to the actual desires or requirements."
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Reducing the cost of fixing issues in production through early bug detection.",
+    "option 4": "Improving the development speed by shortening the coding phase.",
+    "question": "2. Which of the following is not a benefit of software testing?",
+    "option 1": "Ensuring software functions correctly by identifying and fixing defects.",
+    "option 2": "Guaranteeing the software meets defined standards and requirements."
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Improving the aesthetic design of the software interface.",
+    "option 4": "Reducing the level of risk of inadequate software quality.",
+    "question": "3. Which of the following is not a primary objective of software testing?",
+    "option 1": "Ensuring required coverage of a test object.",
+    "option 2": "Verifying whether specified requirements have been fulfilled."
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Validation ensures the product is defect-free.",
+    "option 4": "Validation focuses only on functionality.",
+    "question": "4. What is the main purpose of validation in software testing?",
+    "option 1": "To check if the software meets the needs and expectations of the user.",
+    "option 2": "To verify whether the product complies with specifications."
+  },
+  {
+    "answerkey": 2,
+    "option 3": "A well-designed user interface.",
+    "option 4": "Efficient algorithm performance.",
+    "question": "5. What does the term 'bug' refer to in software testing?",
+    "option 1": "An intentional feature added to the software.",
+    "option 2": "An error or flaw in the software."
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Black-box testing only tests code paths.",
+    "option 4": "Black-box testing ignores the internal workings of the application.",
+    "question": "6. What distinguishes black-box testing from white-box testing?",
+    "option 1": "Black-box testing requires knowledge of source code.",
+    "option 2": "White-box testing only validates inputs and outputs."
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Acceptance testing.",
+    "option 4": "Integration testing.",
+    "question": "7. Which type of testing focuses on evaluating the complete system's compliance with requirements?",
+    "option 1": "Unit testing.",
+    "option 2": "Smoke testing."
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Unit testing verifies the system's performance under load.",
+    "option 4": "Unit testing is only done after system testing.",
+    "question": "8. What is the purpose of unit testing?",
+    "option 1": "To validate individual components or modules in isolation.",
+    "option 2": "To test the interaction between integrated components."
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Regression testing is done before every release.",
+    "option 4": "Regression testing only focuses on new features.",
+    "question": "9. What does regression testing ensure?",
+    "option 1": "Newly added features meet the original design requirements.",
+    "option 2": "Existing functionalities are not broken by recent changes."
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Validation and verification are identical processes.",
+    "option 4": "Verification ensures the product is built correctly according to specifications.",
+    "question": "10. What is the key focus of verification in software testing?",
+    "option 1": "Checking user satisfaction with the software.",
+    "option 2": "Testing the product against end-user needs."
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Defining the scope and objectives of testing.",
+    "option 4": "Establishing guidelines for defect classification.",
+    "question": "11. What is the purpose of a test plan in software testing?",
+    "option 1": "Documenting only the test cases.",
+    "option 2": "Ensuring the code adheres to coding standards."
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Integration testing validates user interfaces.",
+    "option 4": "Integration testing is identical to system testing.",
+    "question": "12. What is the main objective of integration testing?",
+    "option 1": "To verify interactions between combined software modules.",
+    "option 2": "To identify bugs in individual units of code."
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Beta testing happens in the development phase.",
+    "option 4": "Beta testing is done only for mobile applications.",
+    "question": "13. What is beta testing primarily used for?",
+    "option 1": "Testing hardware integration with software.",
+    "option 2": "Gathering feedback from end-users in a real-world environment."
+  },
+  {
+    "answerkey": 4,
+    "option 3": "System testing includes load and stress testing.",
+    "option 4": "System testing validates the complete and integrated software system.",
+    "question": "14. What does system testing focus on?",
+    "option 1": "Identifying individual module errors.",
+    "option 2": "Testing only graphical user interfaces."
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Testing multiple systems as a single system.",
+    "option 4": "Validating software against hardware constraints.",
+    "question": "15. What is the main purpose of compatibility testing?",
+    "option 1": "Evaluating the product's security mechanisms.",
+    "option 2": "Testing for coding standards compliance."
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Ensuring hardware compatibility only.",
+    "option 4": "Focusing on user feedback integration.",
+    "question": "16. What is the key goal of usability testing?",
+    "option 1": "Improving the code quality of the software.",
+    "option 2": "Enhancing the user experience through ease of use and accessibility."
+  },
+  {
+    "answerkey": 1,
+    "option 3": "To improve software coding standards.",
+    "option 4": "To validate end-user satisfaction levels.",
+    "question": "17. What does performance testing primarily focus on?",
+    "option 1": "Evaluating the system's response time under a specific workload.",
+    "option 2": "Testing the integration of software modules."
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Identifying only functional errors in the system.",
+    "option 4": "Ensuring the software operates correctly under different conditions.",
+    "question": "18. What is the purpose of exploratory testing?",
+    "option 1": "To follow predefined test cases.",
+    "option 2": "To validate the software against technical documentation."
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Testing automation processes.",
+    "option 4": "Validating software architecture.",
+    "question": "19. What does security testing primarily address?",
+    "option 1": "Ensuring usability for end-users.",
+    "option 2": "Improving software maintainability."
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Ensuring efficient code algorithms.",
+    "option 4": "Verifying the graphical interface design.",
+    "question": "20. What is the purpose of load testing in performance evaluation?",
+    "option 1": "To test for coding standard compliance.",
+    "option 2": "To evaluate system behavior under expected workload levels."
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Testing system usability and design.",
+    "option 4": "Automating regression tests.",
+    "question": "21. What is the purpose of stress testing?",
+    "option 1": "To identify the system's breaking point under extreme conditions.",
+    "option 2": "To evaluate normal performance standards."
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Testing only system compatibility.",
+    "option 4": "Simulating user actions to test software behavior.",
+    "question": "22. What does end-to-end testing validate?",
+    "option 1": "Individual code modules.",
+    "option 2": "Unit test cases."
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Detecting system security vulnerabilities.",
+    "option 4": "Verifying functional requirements.",
+    "question": "23. What is the primary focus of penetration testing?",
+    "option 1": "Evaluating system maintainability.",
+    "option 2": "Improving user interface design."
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Testing only the user interface.",
+    "option 4": "Ensuring compliance with coding standards.",
+    "question": "24. What is alpha testing primarily used for?",
+    "option 1": "Testing performance at scale.",
+    "option 2": "Validating the application in a controlled environment."
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Improving system performance metrics.",
+    "option 4": "Documenting user scenarios.",
+    "question": "25. What is the primary goal of acceptance testing?",
+    "option 1": "To determine if the software meets business requirements.",
+    "option 2": "To ensure software compatibility across devices."
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Validating design requirements.",
+    "option 4": "Ensuring the software performs well under heavy workloads.",
+    "question": "26. What does scalability testing evaluate?",
+    "option 1": "The accuracy of system calculations.",
+    "option 2": "The quality of code comments."
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Verifying detailed coding processes.",
+    "option 4": "Identifying security loopholes.",
+    "question": "27. What is the focus of maintainability testing?",
+    "option 1": "Testing the scalability of software.",
+    "option 2": "Evaluating how easily the software can be modified."
+  },
+  {
+    "answerkey": 4,
+    "option 3": "30001",
+    "option 4": "95001",
+    "question": "28. In a system designed to calculate the tax to be paid, an employee has a tax-free salary of 50,000 Tk. The next 15,000 Tk is taxed at 10%, and the subsequent 30,000 Tk is taxed at 15%. Any additional amount is taxed at 25%. To the nearest amount, which of the following is a valid Boundary Value Analysis test case?",
+    "option 1": "50001",
+    "option 2": "64999"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Decision Table Testing",
+    "option 4": "Condition Testing",
+    "question": "29. Which is not whitebox testing technique?",
+    "option 1": "Statement Testing",
+    "option 2": "Decision Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "1C, 2D, 3A, 4B",
+    "option 4": "1D, 2C, 3D, 4A",
+    "question": "30. Match the following terms and statements. 1.Decision Table Testing 2.Decision Testing 3.State Transition Testing 4.Exploratory Testing A. Testing carried out to achieve specific test objectives within a timeframe. B. A test technique used which may be used to verify different system re depending on current conditions or previous history. C. A test technique which combines combinations of inputs that might not otherwise have been exercised during testing. D. A form of control flow testing based on decision outcomes.",
+    "option 1": "1D, 2B, 3C, 4A",
+    "option 2": "1C,2D, 3B, 4A"
+  }
+]
