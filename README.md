@@ -4,7 +4,7 @@
 
 1. [📝 Overview](#-overview)  
 2. [🛠️ Features](#️-features)  
-   - [Admin Role](#admin-role)  
+   - [Admin Role](https://github.com/zfnkml/SalmanRahman-SDET-Simple-Project-on-Java-Quiz-System/tree/main?tab=readme-ov-file#admin-role--executing-as-admin)  
    - [Student Role](#student-role)  
    - [Data Management](#data-management)  
 3. [🖥️ Technologies Used](#️-technologies-used)  
