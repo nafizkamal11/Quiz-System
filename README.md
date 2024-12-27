@@ -36,7 +36,6 @@ This application adheres to Object-Oriented Programming (OOP) principles and mod
 ### Student Role : [Executing as Student](https://go.screenpal.com/watch/cZlt6ynelus)
 - Attempt 10 randomly selected quiz questions.
 - Receive feedback and grading based on performance.
-https://go.screenpal.com/watch/cZlt6ynelus
 
 ### Data Management
 - All questions and user information are stored and retrieved from JSON files.
