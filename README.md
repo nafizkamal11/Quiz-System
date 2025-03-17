@@ -74,7 +74,7 @@ QuizRunner/
 1. Clone the repository:
     
     ```bash
-    git clone https://github.com/zfnkml/SalmanRahman-SDET-Simple-Project-on-Java-Quiz-System.git
+    git clone https://github.com/nafizkamal11/Quiz-System.git
     cd QuizRunner
     
     ```
